@@ -1,3 +1,8 @@
 body{
-    box-sizing: border-box;
+    background-color: rgb(46, 91, 150);
+}
+.img{
+    position: absolute;
+width: 53px;
+height: 68px;
 }
